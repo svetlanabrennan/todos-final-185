@@ -1,5 +1,5 @@
 {
-  "name": "todos-js175",
+  "name": "todos-js185",
   "version": "1.0.0",
   "description": "",
   "main": "todos.js",
@@ -24,7 +24,7 @@
     "express-session": "^1.17.0",
     "express-validator": "^6.2.0",
     "morgan": "^1.9.1",
-    "pg": "^8.4.0",
+    "pg": "^7.12.1",
     "pug": "^2.0.4"
   },
   "engines": {
